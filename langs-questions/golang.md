@@ -1,18 +1,5 @@
-# Вопросы по языку Golang
-## Общая информация
-Общая информация о хитростях и проблемах Golang - [тут](https://habr.com/ru/company/mailru/blog/314804/)  
-Хорошая презентация с возможностью выполнять код онлайн  - [тут](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1)  
-Немного информации про структурные типы данных в Golang   - [тут](http://golang-book.ru/chapter-06-arrays-slices-maps.html)  
+## Вопросы по языку Golang
 
-Сборщик мусора 
-- Вроде неплохой доклад (еще не проверял)  - [тут](https://www.youtube.com/watch?v=CX4GSErFenI)
-- Очистка областей памяти, на которые ссылались переменные, что больше не используются  
-
-Как устроены каналы “под капотом”? 
-- Под капотом Golang — как работают каналы. Часть 1” - [тут](https://medium.com/%40victor_nerd/%D0%BF%D0%BE%D0%B4-%D0%BA%D0%B0%D0%BF%D0%BE%D1%82%D0%BE%D0%BC-golang-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-e1da9e3e104d)
-- Строение каналов в Golang. Часть 2. - [тут](https://medium.com/@victor_nerd/golang-channel-internal-part2-b4e37ad9a118)
-
-## Вопросы
 <details>
 <summary> <b>Что из себя представляет тип данных string в языке Golang?</b> </summary>
 Массив символов
