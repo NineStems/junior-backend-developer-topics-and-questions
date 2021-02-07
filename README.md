@@ -413,7 +413,7 @@ println(int(time.Since(timeStart).Seconds())) // что выведет - 3 ил�
 
 <details>
 <summary><b>Список полезных ссылок</b></summary>
-•	https://golang.org/ref/spec - спецификация по язык
+- [Спецификация по языку](https://golang.org/ref/spec)  
 •	https://golang.org/ref/mem - модель памяти го. на начальном этапе не надо, но знать полезно
 •	https://golang.org/doc/code.html - про организацию кода. GOPATH и пакеты
 •	https://golang.org/cmd/go/
