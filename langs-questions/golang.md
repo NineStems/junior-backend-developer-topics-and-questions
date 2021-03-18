@@ -2,7 +2,7 @@
 
 <details>
 <summary> <b>Что из себя представляет тип данных string в языке Golang?</b> </summary>
-Массив символов
+Массив байт
 </details> 
 
 <details>
