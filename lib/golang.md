@@ -16,7 +16,8 @@
 -	[Набор how-to где можно получить углублённую информацию по всем базовым вещам. очень полезно](https://yourbasic.org/golang/)
 -	[Работа с файлами](https://www.devdungeon.com/content/working-files-go)
 -	[Пакеты и зависимости](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
--	[Краш-курс по интерфейсам в Go](https://habrahabr.ru/post/276981/)
+-	[Краш-курс по интерфейсам в Go](https://habrahabr.ru/post/276981/)  
+-	[Пример создания web-сервера на golang](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 ### CodeStyle и review
 - [Про организацию кода. GOPATH и пакеты](https://golang.org/doc/code.html)
 -	[Как ревьювить (и писать код). обязательно к прочтению](https://github.com/golang/go/wiki/CodeReviewComments)
