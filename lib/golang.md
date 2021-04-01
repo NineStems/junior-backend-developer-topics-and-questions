@@ -53,3 +53,4 @@
 ## Инструменты для подготовки к собеседованиям
 -	[Тест с вопросами для собеседования на golang](https://proghub.ru/t/golang-interview)  
 - [Презентация с возможностью выполнять код онлайн](talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1)  
+- [Площадка с возможностью создавать опросники, с логгированием действий отвечающего](https://www.interviewzen.com/)
