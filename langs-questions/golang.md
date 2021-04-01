@@ -245,7 +245,7 @@ type Test struct {
 	Name string
 }
 
-func main() {
+func main() { 
 	mapCampaigns := make(map[string]*Test)
 	name := mapCampaigns[""].Name
 	fmt.Println(name)
@@ -254,3 +254,10 @@ func main() {
   </summary>
 <details> <summary><b>Что нужно сделать, чтобы избежать паники?</b></summary> Получать два параметра при получении значении из мапы и явно обрабатывать ключ существования элемента </details>   
 </details>  
+
+<details>
+<summary><b>У вас есть метод square объявленный у структуры по указателю, он берет поле структуры i и возвращает его квадрат. Имеет ли смысл объявить этот метод от значения? В каких случаях у нас будет работать только один метод? todo</b></summary>
+todo
+</details>  
+Добавить вопрос про инициализацию todo  
+Добавить вопрос про зависимости пакетов todo  
