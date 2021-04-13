@@ -34,7 +34,7 @@ strconv.appendint
 </details>  
 
 <details>
-<summary><b>Как устроен слайс и чем он отличается от массива?</b></summary>
+<summary>todo <b>Как устроен слайс и чем он отличается от массива?</b></summary>
 todo
 </details>  
 
@@ -49,7 +49,7 @@ riptutorial.com/go/example/7303/multidimensional-array
 </details> 
 
 <details>
-<summary><b>Что происходит в runtime Golang?</b></summary>
+<summary>todo <b>Что происходит в runtime Golang?</b></summary>
 todo
 </details> 
 
@@ -64,18 +64,18 @@ todo
 </details> 
 
 <details>
-<summary><b>Что такое каналы и каких видов они бывают?</b></summary>
-С помощью установки значения переменной gomaxproc
+<summary>todo <b>Что такое каналы и каких видов они бывают?</b></summary>
+todo
 </details> 
 
 <details>
-<summary><b>Что будет если писать в закрытый канал?</b></summary>
-С помощью установки значения переменной gomaxproc
+<summary>todo <b>Что будет если писать в закрытый канал?</b></summary>
+todo
 </details> 
 
 <details>
-<summary><b>Что будет если писать в неинициализированный канал?</b></summary>
-С помощью установки значения переменной gomaxproc
+<summary>todo <b>Что будет если писать в неинициализированный канал?</b></summary>
+todo
 </details> 
 
 <details>
@@ -172,9 +172,9 @@ func changeMap(n chan bool, i int, m map[int]int) {
 </details>   
 
 <details>
-<summary><b>Что ты использовал из пакета sync(кроме Mutex и WaitGroup)?</b></summary>
+<summary>todo <b>Что ты использовал из пакета sync(кроме Mutex и WaitGroup)?</b></summary>
 Атомарный счётчик 
-TODO - Добавить, что там еще есть
+todo - Добавить, что там еще есть
 </details>  
 
 <details>
@@ -219,7 +219,7 @@ _, _ = <-worker(), <-worker()
 println(int(time.Since(timeStart).Seconds())) // что выведет - 3 или 6?
 }
 ```  
-  </summary>
+</summary>
 <details> <summary> Что нужно изменить, чтобы код работал за 3 секунды? </summary> Добавить инициализацию воркеров, а потом ждать ответов из них </details>   
 </details>  
 
@@ -261,7 +261,7 @@ func main() {
 <summary>todo <b>У вас есть метод square объявленный у структуры по указателю, он берет поле структуры i и возвращает его квадрат.  
 Имеет ли смысл объявить этот метод от значения?  
 В каких случаях у нас будет работать только один метод?</b></summary>
-Добавить описание  
+todo 
 </details>  
 
 <details>
@@ -293,5 +293,3 @@ func B() int {return a.A2() * 2}
 </summary>
 Код не будет скомпилирован, так как тут есть цикличная зависимость
 </details>  
-
-Добавить вопрос про зависимости пакетов todo  
