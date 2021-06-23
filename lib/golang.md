@@ -26,6 +26,8 @@
 -	[Как организовать код(Видео)](https://www.youtube.com/watch?v=MzTcsI6tn-0)
 -	[Организация кода в go](https://habrahabr.ru/post/308198/)
 -	[Как не наступать на грабли в Go](https://habrahabr.ru/post/325468/)
+### Советы по деплою
+- [Как настроить автодеплой бинарей в github](https://web3.coach/golang-github-actions-release-binaries-tutorial) 
 ### Техническая подоплёка 
 - [Сборщик мусора(видео-доклад)](www.youtube.com/watch?v=CX4GSErFenI)
 - [Модель памяти golang](https://golang.org/ref/mem)
