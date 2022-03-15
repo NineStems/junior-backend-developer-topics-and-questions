@@ -19,6 +19,7 @@
 -	[Краш-курс по интерфейсам в Go](https://habrahabr.ru/post/276981/)  
 -	[Пример создания web-сервера на golang](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 -	[Работа с контекстом в GO](https://habr.com/ru/company/nixys/blog/461723/)
+-	[Интерфейсы в GO простым языком](https://nuancesprog.ru/p/14201/)
 ### CodeStyle и review
 - [Про организацию кода. GOPATH и пакеты](https://golang.org/doc/code.html)
 -	[Как ревьювить (и писать код). обязательно к прочтению](https://github.com/golang/go/wiki/CodeReviewComments)
