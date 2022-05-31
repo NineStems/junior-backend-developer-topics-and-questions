@@ -35,6 +35,7 @@
 - [Модель памяти golang](https://golang.org/ref/mem)
 - [Хитрости и проблемы Golan](https://habr.com/ru/company/mailru/blog/314804/)  
 -	[Зачем в Go амперсанд и звёздочка (& и *)](https://habr.com/ru/post/339192/)
+-	[Контекст в Go](https://dev.to/karanpratapsingh/understand-context-in-go-46em)
 ### Неразобранное - TODO 
 -	[https://golang.org/cmd/go/](https://golang.org/cmd/go/)	
 -	[https://blog.golang.org/strings](https://blog.golang.org/strings)
