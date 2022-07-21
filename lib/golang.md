@@ -21,6 +21,8 @@
 -	[Работа с контекстом в GO](https://habr.com/ru/company/nixys/blog/461723/)
 -	[Интерфейсы в GO простым языком](https://nuancesprog.ru/p/14201/)
 -	[Многопоточность и каналы](https://habr.com/ru/post/141853/)
+-	[Утечки памяти часть 1](https://habr.com/ru/company/ncloudtech/blog/675390/)
+-	[Утечки памяти часть 2](https://habr.com/ru/company/ncloudtech/blog/676960/)
 ### CodeStyle и review
 - [Про организацию кода. GOPATH и пакеты](https://golang.org/doc/code.html)
 -	[Как ревьювить (и писать код). обязательно к прочтению](https://github.com/golang/go/wiki/CodeReviewComments)
