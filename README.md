@@ -1,6 +1,22 @@
 # Оглавление
-- <a name="Список тем и вопросов необходимых для web-backend developer">https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%82%D0%B5%D0%BC-%D0%B8-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-web-backend-developer</a> 
-- <a name="Работа и архитектура приложения">https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81%D0%B5%D1%82%D0%B8-%D0%B8-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9</a> 
+- [Список тем и вопросов необходимых для web-backend developer](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%82%D0%B5%D0%BC-%D0%B8-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-web-backend-developer)
+   - [Работа и архитектура приложения](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81%D0%B5%D1%82%D0%B8-%D0%B8-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)
+     - [Чистая архитектура](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D1%87%D0%B8%D1%81%D1%82%D0%B0%D1%8F-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)
+     - [Верхнеуровневый процесс перехода по ссылке](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B0-%D0%BF%D0%BE-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B5)
+     - [Протоколы](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B)
+     - [Основные типы HTTP запросов](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D0%BF%D1%8B-http-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2)
+     - [REST API](https://github.com/NineStems/junior-backend-developer-topics-and-questions#rest-api)
+     - [SOAP](https://github.com/NineStems/junior-backend-developer-topics-and-questions#soap)
+     - [Protocol Buffers](https://github.com/NineStems/junior-backend-developer-topics-and-questions#protocol-buffers)
+     - [gRPC](https://github.com/NineStems/junior-backend-developer-topics-and-questions#grpc)
+  - [Микросервисная архитектура](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%B0%D1%8F-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)
+    - [Возможные вопросы по микросервисам](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BF%D0%BE-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%D0%BC)
+  - [Базы данных](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+  - [Инфраструктура и деплой](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B8-%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9)
+  - [Алгоритмы](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B)
+- [Справочная информация по Golang](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-golang)
+- [Задачи для разминки](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D0%BC%D0%B8%D0%BD%D0%BA%D0%B8)
+- [Материалы](https://github.com/NineStems/junior-backend-developer-topics-and-questions#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0)
 # Список тем и вопросов необходимых для web-backend developer  
 На текущий момент находиться в процессе **доработки и дополнения**
 ## Работа сети и архитектура приложений
@@ -201,8 +217,7 @@
     - HTOP - Монитор ресурсов
     - SSH - Работа с шифрованием
     - HEAD - Вывод начальных строк, например head -n 100 1.csv > 100.csv - перегнать 100 первых строк файла в новый
-
-## GIT
+### GIT
 - add - Добавление изменений в индекс 
 - commit - Сбор всех проиндексированных файлов в слепок и сохранение его в локальную версию репозитория
 - status - Отображение всех изменений, совершенных с файлами в ветке
